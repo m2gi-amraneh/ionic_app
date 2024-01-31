@@ -1,0 +1,7 @@
+{
+  "name": "mobapp1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
