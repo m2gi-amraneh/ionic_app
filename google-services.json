@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726506342366",
+    "project_id": "ionic-app-b0a21",
+    "storage_bucket": "ionic-app-b0a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726506342366:android:c6ea4542fad395e5aaff4f",
+        "android_client_info": {
+          "package_name": "com.company.mobapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiKy7eNvXeUMGNzZ5gcmukECD8PSrB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
